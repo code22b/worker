@@ -1,2 +1,2 @@
 # worker
-HTML, CSS I SCSS
+HTML, CSS i SCSS
